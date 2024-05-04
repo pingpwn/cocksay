@@ -1,5 +1,7 @@
 # Cocksay
 
+### Description
+
 A dumb [cowsay](https://en.wikipedia.org/wiki/Cowsay) clone which helped me learn a bit of C.
 
 ### Usage
